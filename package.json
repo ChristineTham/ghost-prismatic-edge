@@ -38,7 +38,7 @@
         }
     },
     "scripts": {
-        "dev": "gulp",
+        "dev": "gulp build",
         "test": "gscan .",
         "test:ci": "gscan --fatal --verbose .",
         "lint": "gulp lint",
